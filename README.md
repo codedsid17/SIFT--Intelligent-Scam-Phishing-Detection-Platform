@@ -59,6 +59,12 @@ src/
 └── tests/
     └── detectionEngine.test.ts # Automated test suite (10 test cases)
 ```
+---
+
+## Live Deployment
+
+
+https://sift-intelligent-scam-phishing-dete.vercel.app/
 
 ---
 
